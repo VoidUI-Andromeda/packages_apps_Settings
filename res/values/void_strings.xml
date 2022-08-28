@@ -57,4 +57,8 @@
     <string name="chroma_factor_summary">Higher values produce stronger colors</string>
     <string name="tint_background_title">Tint Background</string>
     <string name="tint_background_summary">Make Luminance and Chroma selection affect background colors as well</string>
+
+    <!-- Game Space -->
+    <string name="game_space_title">Game Space</string>
+    <string name="game_space_summary">Enhance your gaming experience</string>
 </resources>
