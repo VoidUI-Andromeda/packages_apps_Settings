@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Device Colour Modes Customizations -->
+    <string name="color_mode_option_natural">Alami</string>
+    <string name="color_mode_option_boosted">Ditingkatkan</string>
+    <string name="color_mode_option_automatic">Otomatis</string>
+    <string name="color_mode_option_vivid">Vivid</string>
+    <string name="color_mode_option_original">Asli</string>
+    <string name="color_mode_option_p3">P3</string>
+    <string name="color_mode_option_srgb">sRGB</string>
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">Versi Rilis VoidUI</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">Pengelola Perangkat</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">Bilah navigasi</string>
+    <string name="immersive_navigation_title">Navigasi Immersive</string>
+    <string name="immersive_navigation_summary">Sembunyikan pil gestur dan lapisan bilah navigasi.</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Aplikasi layar penuh</string>
+    <string name="display_cutout_force_fullscreen_summary">Paksa aplikasi untuk mengabaikan ruang takik</string>
+    <string name="display_cutout_force_fullscreen_no_apps">Tidak ada aplikasi</string>
+    <string name="display_cutout_force_fullscreen_restart_app">Harap mulai ulang aplikasi untuk menerapkan perubahan.</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">Hitam murni</string>
+    <string name="black_bg_summary">Latar belakang hitam murni untuk tema gelap</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">Pengaturan tema</string>
+    <string name="monet_settings_sammary">Beberapa pengaturan tambahan untuk menyesuaikan mesin monet</string>
+    <string name="theme_style_title">Gaya tema</string>
+    <string name="theme_style_tonal_spot">Titik Nada (Default)</string>
+    <string name="theme_style_vibrant">Bersemangat</string>
+    <string name="theme_style_expressive">Ekspresif</string>
+    <string name="theme_style_spritz">Spritz</string>
+    <string name="theme_style_rainbow">Pelangi</string>
+    <string name="theme_style_fruit_salad">Salad Buah</string>
+    <string name="theme_style_muted">Dibisukan</string>
+    <string name="theme_style_content">Konten</string>
+    <string name="color_source_title">Sumber warna</string>
+    <string name="color_source_both">Keduanya (Default)</string>
+    <string name="color_source_home">Wallpaper rumah</string>
+    <string name="color_source_lock">Kunci wallpaper</string>
+    <string name="color_source_preset">Preset</string>
+    <string name="accent_color_title">Warna Aksen</string>
+    <string name="accent_color_summary">Mengesampingkan warna aksen default</string>
+    <string name="accent_background_title">Latar belakang aksen</string>
+    <string name="accent_background_summary">Pilih warna aksen yang berbeda untuk latar belakang</string>
+    <string name="bg_color_title">Warna Latar Belakang</string>
+    <string name="bg_color_summary">Mengesampingkan warna aksen latar belakang default</string>
+    <string name="luminance_factor_title">Luminance</string>
+    <string name="luminance_factor_summary">Nilai yang lebih tinggi menghasilkan warna yang lebih cerah</string>
+    <string name="chroma_factor_title">Chroma</string>
+    <string name="chroma_factor_summary">Nilai yang lebih tinggi menghasilkan warna yang lebih kuat</string>
+    <string name="tint_background_title">Latar Belakang Warna</string>
+    <string name="tint_background_summary">Membuat pemilihan Luminance dan Chroma juga memengaruhi warna latar belakang</string>
+    <!-- Game Space -->
+    <string name="game_space_title">Ruang Game</string>
+    <string name="game_space_summary">Tingkatkan pengalaman bermain game Anda</string>
+    <!-- Double tap to sleep on status bar or lockscreen -->
+    <string name="status_bar_double_tap_to_sleep_title">Ketuk untuk tidur</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Ketuk dua kali pada bilah status atau layar kunci untuk mematikan layar</string>
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="swipe_to_screenshot_gesture_title">Usap untuk menangkap layar</string>
+    <string name="swipe_to_screenshot_gesture_summary">Geser tiga jari untuk mengambil tangkapan layar</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">Volume aplikasi</string>
+    <string name="app_volume_title">Kontrol volume per aplikasi</string>
+    <string name="app_volume_summary">Memungkinkan untuk mengatur tingkat volume yang berbeda untuk setiap aplikasi</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">Paksa LTE CA</string>
+    <string name="force_lte_ca_summary">Memaksakan agregasi operator LTE untuk bekerja</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">Penggunaan data harian di setelan cepat bagian bawah</string>
+    <string name="qs_footer_datausage_summary">Tampilkan ringkasan penggunaan data harian di setelan cepat bagian bawah</string>
+</resources>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Device Colour Modes Customizations -->
+    <string name="color_mode_option_natural">प्राकृतिक</string>
+    <string name="color_mode_option_boosted">Boosted</string>
+    <string name="color_mode_option_automatic">आटोमेटिक</string>
+    <string name="color_mode_option_vivid">Vivid</string>
+    <string name="color_mode_option_original">Original</string>
+    <string name="color_mode_option_p3">P3</string>
+    <string name="color_mode_option_srgb">sRGB</string>
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">वॉयडयूआई रिलीज़ वर्शन</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">उपकरण अभिभावक</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">गूगल प्ले</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">नेविगेशन बार</string>
+    <string name="immersive_navigation_title">Immersive Navigation</string>
+    <string name="immersive_navigation_summary">Hide the gesture pill and navigation bar padding.</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">पूर्ण स्क्रीन एप्लिकेशन</string>
+    <string name="display_cutout_force_fullscreen_summary">ऐप्स को नॉच स्पेस को नज़रअंदाज़ करने के लिए मजबूर करें</string>
+    <string name="display_cutout_force_fullscreen_no_apps">No apps</string>
+    <string name="display_cutout_force_fullscreen_restart_app">Please restart the application to apply the changes.</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">Pure black</string>
+    <string name="black_bg_summary">Pure black background for dark theme</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">Theming settings</string>
+    <string name="monet_settings_sammary">A few extra settings to customize monet engine</string>
+    <string name="theme_style_title">Theme style</string>
+    <string name="theme_style_tonal_spot">Tonal Spot (Default)</string>
+    <string name="theme_style_vibrant">Vibrant</string>
+    <string name="theme_style_expressive">Expressive</string>
+    <string name="theme_style_spritz">Spritz</string>
+    <string name="theme_style_rainbow">Rainbow</string>
+    <string name="theme_style_fruit_salad">Fruit Salad</string>
+    <string name="theme_style_muted">Muted</string>
+    <string name="theme_style_content">Content</string>
+    <string name="color_source_title">Color source</string>
+    <string name="color_source_both">Both (Default)</string>
+    <string name="color_source_home">Home wallpaper</string>
+    <string name="color_source_lock">Lock wallpaper</string>
+    <string name="color_source_preset">Preset</string>
+    <string name="accent_color_title">Accent Color</string>
+    <string name="accent_color_summary">Override default accent color</string>
+    <string name="accent_background_title">Accent background</string>
+    <string name="accent_background_summary">Choose a different accent color for background</string>
+    <string name="bg_color_title">Background Color</string>
+    <string name="bg_color_summary">Override default background accent color</string>
+    <string name="luminance_factor_title">Luminance</string>
+    <string name="luminance_factor_summary">Higher values produce brighter colors</string>
+    <string name="chroma_factor_title">Chroma</string>
+    <string name="chroma_factor_summary">Higher values produce stronger colors</string>
+    <string name="tint_background_title">Tint Background</string>
+    <string name="tint_background_summary">Make Luminance and Chroma selection affect background colors as well</string>
+    <!-- Game Space -->
+    <string name="game_space_title">गेम स्पेस</string>
+    <string name="game_space_summary">अपने गेमिंग अनुभव को बेहतर करें</string>
+    <!-- Double tap to sleep on status bar or lockscreen -->
+    <string name="status_bar_double_tap_to_sleep_title">सोने के लिए टैप करें</string>
+    <string name="status_bar_double_tap_to_sleep_summary">डिस्प्ले को बंद करने के लिए स्टेटस बार या लॉकस्क्रीन पर डबल-टैप करें</string>
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="swipe_to_screenshot_gesture_title">स्क्रीनशॉट के लिए स्वाइप करे</string>
+    <string name="swipe_to_screenshot_gesture_summary">स्क्रीनशॉट के लिए तीन अंगुलियां स्वाइप करे</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">App volume</string>
+    <string name="app_volume_title">Per-app volume control</string>
+    <string name="app_volume_summary">Allow to set different volume levels for each app</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">Force LTE CA</string>
+    <string name="force_lte_ca_summary">Force LTE carrier aggregation to work</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">क्यूएस पादलेख में दैनिक डेटा उपयोग</string>
+    <string name="qs_footer_datausage_summary">क्विक सेटिंग फ़ुटर में दैनिक डेटा उपयोग सारांश प्रदर्शित करें</string>
+</resources>

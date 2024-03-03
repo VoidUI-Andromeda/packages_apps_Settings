@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Device Colour Modes Customizations -->
+    <string name="color_mode_option_natural">Natural</string>
+    <string name="color_mode_option_boosted">Mejorados</string>
+    <string name="color_mode_option_automatic">Automático</string>
+    <string name="color_mode_option_vivid">Vívido</string>
+    <string name="color_mode_option_original">Original</string>
+    <string name="color_mode_option_p3">P3</string>
+    <string name="color_mode_option_srgb">sRGB</string>
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">Versión de lanzamiento VoidUI</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">Mantenedor del Dispositivo</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">Barra de navegación</string>
+    <string name="immersive_navigation_title">Navegación inmersiva</string>
+    <string name="immersive_navigation_summary">Ocultar la barra de gestos y el relleno de la barra de navegación.</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Aplicaciones en pantalla completa</string>
+    <string name="display_cutout_force_fullscreen_summary">Forzar que las apps ignoren el espacio del notch</string>
+    <string name="display_cutout_force_fullscreen_no_apps">Sin aplicaciones</string>
+    <string name="display_cutout_force_fullscreen_restart_app">Por favor, reinicie la aplicación para aplicar los cambios.</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">Negro puro</string>
+    <string name="black_bg_summary">Fondo negro puro para el tema oscuro</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">Ajustes temáticos</string>
+    <string name="monet_settings_sammary">Unos pocos ajustes adicionales para personalizar el motor de monet</string>
+    <string name="theme_style_title">Estilo temático</string>
+    <string name="theme_style_tonal_spot">Punto tonal (Predeterminado)</string>
+    <string name="theme_style_vibrant">Vibrante</string>
+    <string name="theme_style_expressive">Expresivo</string>
+    <string name="theme_style_spritz">Rocío</string>
+    <string name="theme_style_rainbow">Arcoíris</string>
+    <string name="theme_style_fruit_salad">Ensalada de frutas</string>
+    <string name="theme_style_muted">Apagado</string>
+    <string name="theme_style_content">Contenido</string>
+    <string name="color_source_title">Fuente de color</string>
+    <string name="color_source_both">Ambos (por defecto)</string>
+    <string name="color_source_home">Fondo de pantalla de inicio</string>
+    <string name="color_source_lock">Fondo de pantalla de bloqueo</string>
+    <string name="color_source_preset">Preestablecido</string>
+    <string name="accent_color_title">Color de acento</string>
+    <string name="accent_color_summary">Remplazar el color de acento por defecto</string>
+    <string name="accent_background_title">Acento del fondo</string>
+    <string name="accent_background_summary">Elige un color de acento diferente para el fondo</string>
+    <string name="bg_color_title">Color de fondo</string>
+    <string name="bg_color_summary">Anular el color de acento del fondo predeterminado</string>
+    <string name="luminance_factor_title">Luminosidad</string>
+    <string name="luminance_factor_summary">Los valores más altos producen colores más brillantes</string>
+    <string name="chroma_factor_title">Croma</string>
+    <string name="chroma_factor_summary">Los valores más altos producen colores más intensos</string>
+    <string name="tint_background_title">Tinte del fondo</string>
+    <string name="tint_background_summary">Hacer que la selección de luminosidad y croma también afecte a los colores del fondo</string>
+    <!-- Game Space -->
+    <string name="game_space_title">Espacio de Juego</string>
+    <string name="game_space_summary">Mejora tu experiencia de juego</string>
+    <!-- Double tap to sleep on status bar or lockscreen -->
+    <string name="status_bar_double_tap_to_sleep_title">Doble toque para apagar la pantalla</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Pulsa dos veces en la barra de estado o en la pantalla de bloqueo para apagar la pantalla</string>
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="swipe_to_screenshot_gesture_title">Deslizar para captura de pantalla</string>
+    <string name="swipe_to_screenshot_gesture_summary">Desliza tres dedos para hacer una captura de pantalla</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">Volumen de la aplicación</string>
+    <string name="app_volume_title">Control de volumen por aplicación</string>
+    <string name="app_volume_summary">Permite establecer distintos niveles de volumen para cada aplicación</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">Forzar LTE CA</string>
+    <string name="force_lte_ca_summary">Forzar el funcionamiento de la agregación de portadoras LTE</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">Uso diario de datos en ajustes rápidos</string>
+    <string name="qs_footer_datausage_summary">Mostrar resumen de uso de datos en el pie de página de ajustes rápidos</string>
+</resources>

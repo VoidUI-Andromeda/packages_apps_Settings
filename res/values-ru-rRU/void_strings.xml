@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Device Colour Modes Customizations -->
+    <string name="color_mode_option_natural">Естественный</string>
+    <string name="color_mode_option_boosted">Повышенный</string>
+    <string name="color_mode_option_automatic">Автоматический</string>
+    <string name="color_mode_option_vivid">Яркий</string>
+    <string name="color_mode_option_original">Оригинал</string>
+    <string name="color_mode_option_p3">P3</string>
+    <string name="color_mode_option_srgb">Режим sRGB</string>
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">Версия Релиза VoidUI</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">Мейнтейнер устройства</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">Панель навигации</string>
+    <string name="immersive_navigation_title">Полноэкранная навигация</string>
+    <string name="immersive_navigation_summary">Скрыть полоску жестов и отступ панели навигации.</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Полноэкранные приложения</string>
+    <string name="display_cutout_force_fullscreen_summary">Принудительное игнорирование выреза экрана</string>
+    <string name="display_cutout_force_fullscreen_no_apps">Нет приложений</string>
+    <string name="display_cutout_force_fullscreen_restart_app">Пожалуйста, перезапустите приложение, чтобы изменения вступили в силу.</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">Совершенно чёрный</string>
+    <string name="black_bg_summary">Чистый черный фон для темной темы</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">Настройки темы</string>
+    <string name="monet_settings_sammary">Несколько дополнительных настроек для настройки движка Monet</string>
+    <string name="theme_style_title">Стиль темы</string>
+    <string name="theme_style_tonal_spot">Тональное пятно (по умолчанию)</string>
+    <string name="theme_style_vibrant">Яркий</string>
+    <string name="theme_style_expressive">Выразительный</string>
+    <string name="theme_style_spritz">Брызги</string>
+    <string name="theme_style_rainbow">Радуга</string>
+    <string name="theme_style_fruit_salad">Фруктовый салат</string>
+    <string name="theme_style_muted">Приглушенная</string>
+    <string name="theme_style_content">Контент</string>
+    <string name="color_source_title">Источник цвета</string>
+    <string name="color_source_both">Оба (по умолчанию)</string>
+    <string name="color_source_home">Обои рабочего стола</string>
+    <string name="color_source_lock">Обои экрана блокировки</string>
+    <string name="color_source_preset">Ручная настройка</string>
+    <string name="accent_color_title">Цвет акцента</string>
+    <string name="accent_color_summary">Изменить цвет акцента по умолчанию</string>
+    <string name="accent_background_title">Фоновый акцент</string>
+    <string name="accent_background_summary">Выберите другой акцентный цвет для фона</string>
+    <string name="bg_color_title">Цвет фона</string>
+    <string name="bg_color_summary">Переопределить цвет акцента фона по умолчанию</string>
+    <string name="luminance_factor_title">Яркость</string>
+    <string name="luminance_factor_summary">Более высокие значения дают более яркие цвета</string>
+    <string name="chroma_factor_title">Коэффициент цветности</string>
+    <string name="chroma_factor_summary">Более высокие значения дают более насыщенные цвета</string>
+    <string name="tint_background_title">Оттенок фона</string>
+    <string name="tint_background_summary">Выбор яркости и цветности, позволяет также влиять на цвета фона</string>
+    <!-- Game Space -->
+    <string name="game_space_title">Игровое пространство</string>
+    <string name="game_space_summary">Улучшите свой игровой опыт</string>
+    <!-- Double tap to sleep on status bar or lockscreen -->
+    <string name="status_bar_double_tap_to_sleep_title">Коснитесь для сна</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Дважды коснитесь строки состояния, чтобы перевести устройство в спящий режим</string>
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="swipe_to_screenshot_gesture_title">Провести для скриншота</string>
+    <string name="swipe_to_screenshot_gesture_summary">Проведите тремя пальцами для создания скриншота</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">Громкость приложений</string>
+    <string name="app_volume_title">Регулировка громкости для каждого приложения</string>
+    <string name="app_volume_summary">Позволяет устанавливать разные уровни громкости для каждого приложения</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">Принудительный LTE CA</string>
+    <string name="force_lte_ca_summary">Принудительное включение LTE агрегации</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">Ежедневный трафик в нижнем колонтитуле QS</string>
+    <string name="qs_footer_datausage_summary">Показывать статистику о ежедневном трафике в нижнем колонтитуле быстрых настроек</string>
+</resources>

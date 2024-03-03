@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Device Colour Modes Customizations -->
+    <string name="color_mode_option_natural">自然</string>
+    <string name="color_mode_option_boosted">提升</string>
+    <string name="color_mode_option_automatic">自动</string>
+    <string name="color_mode_option_vivid">生动</string>
+    <string name="color_mode_option_original">原比例</string>
+    <string name="color_mode_option_p3">P3</string>
+    <string name="color_mode_option_srgb">sRGB</string>
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">VoidUI 发布版本</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">VoidUI 维护者</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Play 商店</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">导航栏</string>
+    <string name="immersive_navigation_title">沉浸式导航栏</string>
+    <string name="immersive_navigation_summary">隐藏导航条和键盘下的扩展区。</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">全屏应用</string>
+    <string name="display_cutout_force_fullscreen_summary">应用强制忽略屏幕开孔</string>
+    <string name="display_cutout_force_fullscreen_no_apps">没有应用</string>
+    <string name="display_cutout_force_fullscreen_restart_app">请重新启动应用程序以应用更改</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">纯黑色</string>
+    <string name="black_bg_summary">深色主题使用纯黑色背景</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">标记设置</string>
+    <string name="monet_settings_sammary">额外几个对 Monet 引擎的自定义设置</string>
+    <string name="theme_style_title">主题样式</string>
+    <string name="theme_style_tonal_spot">色调点（默认）</string>
+    <string name="theme_style_vibrant">有活力</string>
+    <string name="theme_style_expressive">表现力</string>
+    <string name="theme_style_spritz">喷洒</string>
+    <string name="theme_style_rainbow">彩虹</string>
+    <string name="theme_style_fruit_salad">水果沙拉</string>
+    <string name="theme_style_muted">静默</string>
+    <string name="theme_style_content">满足</string>
+    <string name="color_source_title">色彩来源</string>
+    <string name="color_source_both">两者（默认）</string>
+    <string name="color_source_home">主题壁纸</string>
+    <string name="color_source_lock">锁屏壁纸</string>
+    <string name="color_source_preset">预设</string>
+    <string name="accent_color_title">强调色</string>
+    <string name="accent_color_summary">覆盖默认强调色</string>
+    <string name="accent_background_title">强调色背景</string>
+    <string name="accent_background_summary">为背景选择不同的重点颜色</string>
+    <string name="bg_color_title">背景颜色</string>
+    <string name="bg_color_summary">覆盖默认背景强调色</string>
+    <string name="luminance_factor_title">亮度</string>
+    <string name="luminance_factor_summary">更高的亮度生成的色彩看起来更亮</string>
+    <string name="chroma_factor_title">色度</string>
+    <string name="chroma_factor_summary">更高的色值生成的色彩看起来更鲜艳</string>
+    <string name="tint_background_title">着色背景</string>
+    <string name="tint_background_summary">让背景色彩也使用自定义亮度和色度</string>
+    <!-- Game Space -->
+    <string name="game_space_title">游戏空间</string>
+    <string name="game_space_summary">增强您的游戏体验</string>
+    <!-- Double tap to sleep on status bar or lockscreen -->
+    <string name="status_bar_double_tap_to_sleep_title">点按休眠</string>
+    <string name="status_bar_double_tap_to_sleep_summary">在状态栏或锁屏界面点按两次即可关闭屏幕</string>
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="swipe_to_screenshot_gesture_title">滑动截屏</string>
+    <string name="swipe_to_screenshot_gesture_summary">三指向下滑动以截屏</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">应用独立音量</string>
+    <string name="app_volume_title">独立控制每个应用的音量</string>
+    <string name="app_volume_summary">允许为每个应用设置不同的音量大小</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">LTE 载波聚合</string>
+    <string name="force_lte_ca_summary">强制开启 LTE 载波聚合</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">快捷设置底部的每日流量使用情况</string>
+    <string name="qs_footer_datausage_summary">在快捷设置面板的底部显示当日的流量使用情况</string>
+</resources>

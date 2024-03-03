@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Device Colour Modes Customizations -->
+    <string name="color_mode_option_natural">자연스러운</string>
+    <string name="color_mode_option_boosted">부스트</string>
+    <string name="color_mode_option_automatic">자동</string>
+    <string name="color_mode_option_vivid">Vivid</string>
+    <string name="color_mode_option_original">원본</string>
+    <string name="color_mode_option_p3">P3</string>
+    <string name="color_mode_option_srgb">sRGB</string>
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">VoidUI 릴리스 버전</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">장치 유지관리자</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">구글 플레이</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">탐색 메뉴</string>
+    <string name="immersive_navigation_title">몰입형 내비게이션</string>
+    <string name="immersive_navigation_summary">제스처 필 및 탐색 모음 패딩을 숨깁니다.</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">전체 화면 앱</string>
+    <string name="display_cutout_force_fullscreen_summary">앱에서 노치 공간을 무시하도록 강제합니다</string>
+    <string name="display_cutout_force_fullscreen_no_apps">앱 없음</string>
+    <string name="display_cutout_force_fullscreen_restart_app">변경 사항을 적용하려면 애플리케이션을 다시 시작하세요.</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">퓨어 블랙</string>
+    <string name="black_bg_summary">어두운 테마를 위한 순수한 검정색 배경</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">테마 설정</string>
+    <string name="monet_settings_sammary">모넷 엔진을 사용자 지정하기 위한 몇 가지 추가 설정</string>
+    <string name="theme_style_title">테마 스타일</string>
+    <string name="theme_style_tonal_spot">톤 스팟(기본값)</string>
+    <string name="theme_style_vibrant">활기찬</string>
+    <string name="theme_style_expressive">표현력</string>
+    <string name="theme_style_spritz">Spritz</string>
+    <string name="theme_style_rainbow">Rainbow</string>
+    <string name="theme_style_fruit_salad">과일 샐러드</string>
+    <string name="theme_style_muted">음소거</string>
+    <string name="theme_style_content">콘텐츠</string>
+    <string name="color_source_title">색상 소스</string>
+    <string name="color_source_both">모두(기본값)</string>
+    <string name="color_source_home">홈 배경 화면</string>
+    <string name="color_source_lock">잠금 배경화면</string>
+    <string name="color_source_preset">프리셋</string>
+    <string name="accent_color_title">강조 색상</string>
+    <string name="accent_color_summary">기본 강조 색상 재정의</string>
+    <string name="accent_background_title">악센트 배경</string>
+    <string name="accent_background_summary">배경에 다른 강조 색상 선택</string>
+    <string name="bg_color_title">배경색</string>
+    <string name="bg_color_summary">기본 배경 강조 색상 재정의</string>
+    <string name="luminance_factor_title">휘도</string>
+    <string name="luminance_factor_summary">값이 높을수록 색상이 더 밝아집니다.</string>
+    <string name="chroma_factor_title">크로마</string>
+    <string name="chroma_factor_summary">값이 높을수록 색상이 강해집니다.</string>
+    <string name="tint_background_title">색조 배경</string>
+    <string name="tint_background_summary">휘도 및 채도 선택이 배경색에도 영향을 미치도록 하기</string>
+    <!-- Game Space -->
+    <string name="game_space_title">게임 공간</string>
+    <string name="game_space_summary">게임 환경 개선</string>
+    <!-- Double tap to sleep on status bar or lockscreen -->
+    <string name="status_bar_double_tap_to_sleep_title">두 번 두드려 화면 끄기</string>
+    <string name="status_bar_double_tap_to_sleep_summary">상태 표시줄이나 잠금 화면을 두 번 탭하여 화면 끄기</string>
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="swipe_to_screenshot_gesture_title">스와이프하여 스크린샷</string>
+    <string name="swipe_to_screenshot_gesture_summary">세 손가락을 스와이프하여 스크린샷 찍기</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">앱 볼륨</string>
+    <string name="app_volume_title">앱별 볼륨 제어</string>
+    <string name="app_volume_summary">앱마다 다른 볼륨 레벨을 설정할 수 있습니다.</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">강제 LTE CA</string>
+    <string name="force_lte_ca_summary">LTE 통신사 집계 강제 작동</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">일별 데이터 사용량 QS 바닥글</string>
+    <string name="qs_footer_datausage_summary">빠른 설정 바닥글에 일별 데이터 사용량 요약 표시</string>
+</resources>

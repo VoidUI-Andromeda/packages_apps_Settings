@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Device Colour Modes Customizations -->
+    <string name="color_mode_option_natural">Přirozený</string>
+    <string name="color_mode_option_boosted">Posílené stránky</string>
+    <string name="color_mode_option_automatic">Automatické</string>
+    <string name="color_mode_option_vivid">Vivid</string>
+    <string name="color_mode_option_original">Originál</string>
+    <string name="color_mode_option_p3">P3</string>
+    <string name="color_mode_option_srgb">sRGB</string>
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">Verze verze VoidUI</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">Správce zařízení</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">Navigační panel</string>
+    <string name="immersive_navigation_title">Pohlcující navigace</string>
+    <string name="immersive_navigation_summary">Skrýt pilulku a odsazení navigačního panelu.</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Aplikace na celou obrazovku</string>
+    <string name="display_cutout_force_fullscreen_summary">Vynucení ignorování výřezu aplikacemi</string>
+    <string name="display_cutout_force_fullscreen_no_apps">Žádné aplikace</string>
+    <string name="display_cutout_force_fullscreen_restart_app">Chcete-li změny uplatnit, restartujte aplikaci.</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">Čistě černá</string>
+    <string name="black_bg_summary">Čistě černé pozadí pro tmavé téma</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">Nastavení motivů</string>
+    <string name="monet_settings_sammary">Několik dalších nastavení pro přizpůsobení motoru monet</string>
+    <string name="theme_style_title">Styl tématu</string>
+    <string name="theme_style_tonal_spot">Tonální bod (výchozí)</string>
+    <string name="theme_style_vibrant">Vibrující</string>
+    <string name="theme_style_expressive">Expresivní</string>
+    <string name="theme_style_spritz">Spritz</string>
+    <string name="theme_style_rainbow">Rainbow</string>
+    <string name="theme_style_fruit_salad">Ovocný salát</string>
+    <string name="theme_style_muted">Tlumené</string>
+    <string name="theme_style_content">Obsah</string>
+    <string name="color_source_title">Zdroj barev</string>
+    <string name="color_source_both">Obojí (výchozí)</string>
+    <string name="color_source_home">Home tapety</string>
+    <string name="color_source_lock">Tapeta zámku</string>
+    <string name="color_source_preset">Přednastavení</string>
+    <string name="accent_color_title">Barva akcentu</string>
+    <string name="accent_color_summary">Přepsat výchozí barvu akcentu</string>
+    <string name="accent_background_title">Pozadí akcentu</string>
+    <string name="accent_background_summary">Zvolte jinou barvu akcentu pro pozadí</string>
+    <string name="bg_color_title">Barva pozadí</string>
+    <string name="bg_color_summary">Přepsat výchozí barvu pozadí s přízvukem</string>
+    <string name="luminance_factor_title">Svítivost</string>
+    <string name="luminance_factor_summary">Vyšší hodnoty vytvářejí jasnější barvy</string>
+    <string name="chroma_factor_title">Chroma</string>
+    <string name="chroma_factor_summary">Vyšší hodnoty vytvářejí výraznější barvy</string>
+    <string name="tint_background_title">Odstín pozadí</string>
+    <string name="tint_background_summary">Výběr svítivosti a chromatičnosti ovlivňuje také barvy pozadí.</string>
+    <!-- Game Space -->
+    <string name="game_space_title">Herní prostor</string>
+    <string name="game_space_summary">Vylepšete si herní zážitek</string>
+    <!-- Double tap to sleep on status bar or lockscreen -->
+    <string name="status_bar_double_tap_to_sleep_title">Klepnutím uspat</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Dvojím klepnutím na stavový řádek nebo zamykací obrazovku vypnout obrazovku</string>
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="swipe_to_screenshot_gesture_title">Gesto třemi prsty</string>
+    <string name="swipe_to_screenshot_gesture_summary">Snímek obrazovky přejetím tří prstů</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">Objem aplikace</string>
+    <string name="app_volume_title">Ovládání hlasitosti v jednotlivých aplikacích</string>
+    <string name="app_volume_summary">Umožňuje nastavit různé úrovně hlasitosti pro každou aplikaci</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">Force LTE CA</string>
+    <string name="force_lte_ca_summary">Vynucení agregace operátorů LTE</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">Denní využití dat v zápatí QS</string>
+    <string name="qs_footer_datausage_summary">Zobrazení denního přehledu využití dat v zápatí rychlého nastavení</string>
+</resources>
